@@ -1,3 +1,3 @@
-# poli_ilyas
-# nama : Ilyas Kurnia Ramadhan
-# nim : A11.2020.13011
+# poli_Atha
+# nama : Amirul Atha Ardisa
+# nim : A11.2020.13055
